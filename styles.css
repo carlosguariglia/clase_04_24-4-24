@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+h2 {
+    color: #333;
+}
+
+article {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+aside {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    width: 200px; /* Ancho del banner lateral */
+    background-color: #f0f0f0; /* Color de fondo */
+    padding: 20px; /* Espacio interior */
+    overflow-y: auto; /* Agregar barra de desplazamiento si es necesario */
+}
+
+details {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+figcaption {
+    font-style: italic;
+    margin-top: 5px;
+}
+
+figure {
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: auto;
+    bottom: 0;
+    width: 100%;
+}
